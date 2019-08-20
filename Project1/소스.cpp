@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+//commit
+//push
+//pull
+//clone
+
 int main()
 {
 	int X = 5;
