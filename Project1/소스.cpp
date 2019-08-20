@@ -7,4 +7,7 @@ int main()
 	int Sum = X + Y;
 
 	printf("%d + %d = %d\n",X, Y, Sum);
+
+	int Z = 30;
+	printf("%d\n", Z);
 }
